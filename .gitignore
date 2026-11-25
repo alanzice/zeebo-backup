@@ -1,6 +1,6 @@
 /ZB/
-/prototipo/build/
-/prototipo/.ferramentas/
+/app/build/
+/app/.ferramentas/
 __pycache__/
 *.zip
 *.key
