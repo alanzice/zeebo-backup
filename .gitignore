@@ -1,0 +1,9 @@
+/ZB/
+/prototipo/build/
+/prototipo/.ferramentas/
+__pycache__/
+*.zip
+*.key
+*.blf
+*.dk
+61s.dat
