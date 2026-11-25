@@ -8,7 +8,7 @@ Aplicativo homebrew independente para copiar jogos, saves e configurações sele
 
 ## Instalação
 
-1. Em [Releases](../../releases), baixe `zeebo-backup-v0.12-teste-sd.zip`. Esse é o pacote para o console.
+1. Em [Releases](../../releases), baixe `zeebo-backup-v0.12.zip`. Esse é o pacote para o console.
 2. Extraia `mif/`, `mod/` e `ZB/` na raiz do cartão. Se as pastas já existirem, mescle o conteúdo para preservar os backups.
 3. No Zeebo, abra **EMAPPLET → Field Test → Memory Copy**. Aguarde a conclusão, reinicie e abra **Zeebo Backup** no menu de aplicativos.
 
